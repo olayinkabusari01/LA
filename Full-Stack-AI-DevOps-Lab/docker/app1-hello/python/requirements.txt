@@ -1,0 +1,4 @@
+# Install Flask using pip:
+# pip install Flask
+
+Flask==3.1.1
